@@ -1,4 +1,4 @@
-perltestskeleton
+skelton
 ================
 
-Skeleton for test pragmas (too lazy to write the same pragmas over?)
+skeleton for test pragmassssssssssssssssssss lazy lazy lazy
