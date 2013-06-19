@@ -1,4 +1,4 @@
-skelton
+Skeleton
 ================
 
-skeleton for test pragmassssssssssssssssssss lazy lazy lazy
+Dont write the same thing again.
